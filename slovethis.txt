@@ -1,0 +1,7 @@
+register for ctf and solve 1st  flag called as letter {MISC} at "https://capturetheflag.withgoogle.com/?#beginners/"
+
+so wat next
+
+http://inravan.ml/"flag".txt  
+
+hahaha this is new task
