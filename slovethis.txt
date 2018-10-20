@@ -1,5 +1,10 @@
 register for ctf and solve 1st  flag called as letter {MISC} at "https://capturetheflag.withgoogle.com/?#beginners/"
 
+
+https://github.com/inravan/root/blob/master/ctf1.png
+https://github.com/inravan/root/blob/master/ctf2.png
+
+
 so wat next
 
 http://inravan.ml/"flag".txt  
